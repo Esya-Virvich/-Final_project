@@ -1,7 +1,7 @@
 # Final_project
 This repository contains my final project, namely a telegram bot that will provide recipes for dishes based on user preferences. More details below.
 
-**Project functionality**
+ ## Project functionality
 
 The project functionality includes the following functions:
 
@@ -11,7 +11,7 @@ The project functionality includes the following functions:
 
 ~ Select approximate cooking time (less than 30 minutes, more than 30 minutes, less than an hour, more than an hour)
 
-**What is the benefit and purpose of the project?**
+## What is the benefit and purpose of the project?
 
 The benefit of the project is that:
 
@@ -21,7 +21,7 @@ The benefit of the project is that:
 
 ~ People often have limited time to prepare food and need to know exactly how long the cooking will take.
 
-**Logic of the project**
+## Logic of the project
 
 Application algorithm:
 1) User selection of the type of food processing for the dish
