@@ -22,6 +22,7 @@ The benefit of the project is that:
 ~ People often have limited time to prepare food and need to know exactly how long the cooking will take.
 
 **Logic of the project**
+
 Application algorithm:
 1) User selection of the type of food processing for the dish
 2) User selection of ingredients
