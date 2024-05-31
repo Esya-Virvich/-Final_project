@@ -1,32 +1,33 @@
-# Final_project
-This repository contains my final project, namely a telegram bot that will provide recipes for dishes based on user preferences. More details below.
+Here is the code for the telegram bot for my final work in the center.
+
+# Telegram-bot
+This repository contains my project - Telegram bot for the "Coaching and Facilitation Workshop by Evgenia Vyrvich"
 
  ## Project functionality
 
 The project functionality includes the following functions:
 
-~ Selecting the type of food processing (cook, fry, stew, bake, without heat treatment, in a slow cooker, in the microwave)
+~ "About Us" button containing general information about the organizers
 
-~ Selection of ingredients (vegetables, fruits, fish, meat, mushrooms, nuts, dried fruits, berries)
+~ The "Our Programs" button, containing information about all possible "Workshop" programs
 
-~ Select approximate cooking time (less than 30 minutes, more than 30 minutes, less than an hour, more than an hour)
+~ Button "Evgenia Vyrvich", containing information about the achievements of the main organizer and coach
 
-## What is the benefit and purpose of the project?
+## Why is my project relevant?
+My project is relevant because:
 
-The benefit of the project is that:
+~ There is a customer, therefore there is a need to use
 
-~ Many people find it difficult to figure out what to cook.
+~ As of January 2023, Telegram has over 700 million monthly active users
 
-~ Sometimes it can be difficult to adapt to existing products and find the right recipe
+~ It is estimated that today more than 25% of companies worldwide use coaching as part of their talent development strategy.
 
-~ People often have limited time to prepare food and need to know exactly how long the cooking will take.
+## What didn't work out?
 
-## Logic of the project
+Unfortunately it didn't work out:
 
-Application algorithm:
-1) User selection of the type of food processing for the dish
-2) User selection of ingredients
-3) User selection of approximate cooking time
-4) Processing of received information
-5) Obtaining a list of suitable recipes from the prepared database
-6) Receiving a selection of recipes by the user
+~ Button "For admin". This button should have asked the user (namely the admin) for a password
+
+~ The output of user data to the browser window using the Flet framework is not implemented (this was supposed to be an improvised database)
+
+## For more details, see the repository itself.
